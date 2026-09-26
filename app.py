@@ -1,4 +1,4 @@
-¿from flask import Flask, jsonify, request
+from flask import Flask, jsonify, request
 from supabase import create_client
 from flasgger import Swagger
 import os
